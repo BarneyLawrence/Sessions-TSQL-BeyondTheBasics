@@ -10,8 +10,6 @@ Query Results > SQL Server > Results to Grid - Retain CR\LF on copy or save
 Query Results > SQL Server > Results to Grid - XML data = Unlimited
 Query Results > SQL Server > Results to Grid - Display Results in a Seperate Tab
 
-Designers > Table and Database Designers - Prevent Saving
-
 SQL Server Object Explorer > Scripting - Data Compression Options = True
 
 Environment > Keyboard > Query Shortcuts

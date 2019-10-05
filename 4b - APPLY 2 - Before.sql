@@ -18,7 +18,7 @@ SELECT
 			(
 			MyKeyValues.KeyValue
 			,CHARINDEX('-',MyKeyValues.KeyValue) + 1
-			,CHARINDEX	(	'-'
+			,CHARINDEX	('-'
 						,MyKeyValues.KeyValue
 						,CHARINDEX('-',MyKeyValues.KeyValue) + 1
 						) 
