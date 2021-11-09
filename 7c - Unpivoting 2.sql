@@ -1,4 +1,4 @@
-USE AdventureWorksDW2017;
+USE AdventureWorksDW2019;
 
 SELECT SalesOrderNumber, S.OrderDate,S.DueDate,S.ShipDate
 FROM dbo.FactInternetSales AS S;

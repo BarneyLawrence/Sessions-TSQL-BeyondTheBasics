@@ -1,4 +1,4 @@
-USE AdventureWorksDW2017;
+USE AdventureWorksDW2019;
 
 WITH CategorySales AS
 (

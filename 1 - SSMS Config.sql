@@ -18,7 +18,7 @@ Environment > Keyboard > Query Shortcuts
 (remember the space at the end)
 */
 
-USE AdventureWorksDW2017
+USE AdventureWorksDW2019
 
 SELECT *
 FROM dbo.DimCustomer AS C

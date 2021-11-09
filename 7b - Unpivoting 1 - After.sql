@@ -1,4 +1,4 @@
-USE AdventureWorksDW2017;
+USE AdventureWorksDW2019;
 
 SELECT S.CustomerKey,U.PropertyType,U.PropertyValue
 FROM dbo.DimCustomer AS S

@@ -1,4 +1,4 @@
-USE AdventureWorksDW2017;
+USE AdventureWorksDW2019;
 
 SELECT C.CustomerKey, FS.SalesOrderNumber, FS.TotalProductCost
 FROM dbo.DimCustomer AS C
